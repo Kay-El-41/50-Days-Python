@@ -3,7 +3,7 @@
 <p>Coding time is 10:14</p>
 <hr/>
 
-<p><b>Day 9: Biggest Odd Number</b></p>
+<p><b>Day 10: Biggest Odd Number</b></p>
 <p>Write a function called <b>hide_password</b> that takes no parameters. The function takes an input (a password) from
 a user and returns a hidden password.</p>
 <p><b>For Example</b></p>
