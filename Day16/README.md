@@ -3,7 +3,7 @@
 <p>Coding time is 13:35</p>
 <hr/>
 
-<p><b>Day 12: Sum the List</b></p>
+<p><b>Day 16: Sum the List</b></p>
 <p>Write a function called <b>sum_list</b> with one parameter that takes a nested_list of integers as an
 argument and returns the sum of the integers.</p>
 <p><b>For Example</b></p>
