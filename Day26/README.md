@@ -1,24 +1,28 @@
-<h2>Day </h2>
-<p>Today is October 00, 2022.</p>
-<p>The coding time is 00:00.</p>
+<h2>Day 26</h2>
+<p>Today is October 22, 2022.</p>
+<p>The coding time is 09:15.</p>
 <hr/>
 
-<p><b>Day 0: </b></p>
+<p><b>Day 26: Sort Words</b></p>
 
 <p>
-Write a function called <b>divide_or_square</b> that takes 
+Write a function called <b>sort_words</b> that takes a string of words as an argument, removes the whitespaces, and return
+a list of letters sorted in alphabetical order. Letters will be separated by commas. All letter should appear once in the list.
+This means that you sort and remove duplicates.
 </p>
 <p><b>For Example:</b></p>
-<p>If you pass </p>
+<p>"love life" should return as ['e,f,i,l,o,v'] </p>
 
 <hr/>
 
-<p><b>Extra Challenge: </b></p>
+<p><b>Extra Challenge: Length of Words</b></p>
 
-<p>Write a function called <b>longest_value</b> that takes 
+<p> s = 'Hi my name is Richard'</p>
+<p>Write a function called <b>string_length</b> that takes a string of words (words and spaces) as argument. This function 
+should return the length of all the words in the string. Return the results in a form of a dictionary. The string above should
+return.
 </p>
 
-<p><b>For Example:</b></p>
-<p>If you pass </p>
+<p> {'Hi': 2, 'my': 2, 'name': 4, 'is': 2, 'Richard': 7} </p>
 
 <hr/>
