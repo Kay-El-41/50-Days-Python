@@ -1,5 +1,5 @@
 <h2>Day 32</h2>
-<p>Today is October 28, 2022.</p>
+<p>Today is November 28, 2022.</p>
 <p>The coding time is 00:00.</p>
 <hr/>
 
